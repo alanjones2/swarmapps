@@ -3,9 +3,12 @@
 
 # [Hands on with OpenAI Swarm](#) 
 
-### Swarm
+### Build multi-agent systems with Swarm, a back-to-basics framework
 
-TBA
+**Files:**
+
+All of the code from the article (and a bit more) can be found in the Jupyter Notebooks ``swarm1.ipynb`` and ``swarm2.ipynb``.
+
 
 ---
 ### If you find this content useful, please consider one or more of the following:
